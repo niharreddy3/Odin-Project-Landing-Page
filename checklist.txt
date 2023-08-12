@@ -1,0 +1,3 @@
+[x] header fit with a max-width 
+[x] change font style of the website to roboto 
+[x] change the color on the header links 
