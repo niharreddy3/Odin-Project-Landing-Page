@@ -151,6 +151,11 @@ button {
   color: #E5E7EB;
 }
 
+.god-of-thunder{
+  margin-top: 3rem;
+  text-align: end;
+}
+
 
 .call-to-action {
   background-color: #3882f6;
@@ -173,8 +178,4 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.text-container {
-
 }
